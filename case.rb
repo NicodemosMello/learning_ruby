@@ -1,2 +1,2 @@
 #cases
-orientações
+orienta
